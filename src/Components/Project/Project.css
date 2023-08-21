@@ -1,0 +1,12 @@
+.github-button{
+    padding: 10px 20px;
+    border:1px solid black;
+    border-radius: 10px;
+    margin:0 20px;
+box-shadow: 10px 10px 10px #d6ddd8;
+}
+.github-button:hover {
+    background-image: linear-gradient(to top right,#570DF8, #6093);
+    color:#fff;
+    border:none;
+}
