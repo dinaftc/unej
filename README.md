@@ -1,8 +1,16 @@
 # Getting Started with Unej
-an Associations' official website thst includes:
+an Associations' official website that includes:
+
+
 1- the presentation of the association
+
+
 2- the activities of the association
+
+
 3- Management of Members
+
+
 4- Admin Dashboard
 
 
